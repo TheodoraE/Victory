@@ -15777,3 +15777,21 @@ readers do not read off random characters that represent icons */
   font-family: 'Font Awesome 5 Free';
   font-weight: 400;
 }
+
+body {
+  margin: 0%;
+}
+
+body header {
+  background-color: #f0f0f0;
+}
+
+body header h1 {
+  font-style: italic;
+  font-family: Alegreya;
+  color: #343a40;
+}
+
+body header a {
+  color: #6c757d;
+}
