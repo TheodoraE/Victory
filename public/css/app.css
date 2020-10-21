@@ -15787,11 +15787,43 @@ body header {
 }
 
 body header h1 {
-  font-style: italic;
+  font-size: 50px;
   font-family: Alegreya;
   color: #343a40;
 }
 
 body header a {
   color: #6c757d;
+}
+
+section {
+  color: #fff;
+}
+
+section .contenu1 {
+  background-image: url("../img/banner-bg.jpg");
+  height: 555px;
+}
+
+section .contenu1 span {
+  font-weight: 700;
+}
+
+section .contenu1 h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+section .contenu1 p {
+  text-align: center;
+}
+
+section .contenu1 button {
+  background-color: #e7644d;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 18px;
 }
